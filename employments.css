@@ -42,7 +42,7 @@ header p {
     display: flex;
     flex-wrap: wrap;
     width: 100vw;
-    height: 150vh;
+    height: 125vh;
 }
 
 .flex-container h1 {
@@ -93,22 +93,26 @@ header p {
     header p {
         position: inherit;
     }
-
-    .flex-container {
-        height: 85vh;
-    }
-
+    
     .flex-container h1 {
         font-size: 10px;
         width: 80%;
     }
 
     .flex-container h4 {
-        font-size: 5px;
+        font-size: 10px;
     }
 
     .flex-container p {
-        font-size: 5px;
+        font-size: 10px;
+    }
+
+    .icon-container {
+        height: 5em;
+    }
+
+    .flex-item {
+        height: 100%;
     }
 
 }
@@ -119,21 +123,26 @@ header p {
         position: inherit;
     }
 
-    .flex-container {
-        height: 85vh;
-    }
-
     .flex-container h1 {
         font-size: 10px;
         width: 80%;
     }
 
     .flex-container h4 {
-        font-size: 5px;
+        font-size: 10px;
     }
 
     .flex-container p {
-        font-size: 5px;
+        font-size: 10px;
     }
+
+    .icon-container {
+        height: 5em;
+    }
+
+    .flex-item {
+        height: 100%;
+    }
+
 
 }

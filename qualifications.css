@@ -153,11 +153,13 @@ header p {
     .flex-container h4 {
         font-size: 10px;
         width: 80%;
+        padding-bottom: 5px;
     }
 
     .flex-container p {
         width: 80%;
         margin: 0;
+        padding-bottom: 10px;
     }
 
     .left-container {
@@ -176,11 +178,6 @@ header p {
 
     .u-list {
         font-size: 10px;
-    }
-
-    .icon-container {
-        height: 25%;
-        padding: 0;
     }
 
     #icon {
@@ -202,11 +199,13 @@ header p {
     .flex-container h4 {
         font-size: 10px;
         width: 80%;
+        padding-bottom: 5px;
     }
 
     .flex-container p {
         width: 80%;
         margin: 0;
+        padding-bottom: 10px;
     }
 
     .left-container {
@@ -225,11 +224,6 @@ header p {
 
     .u-list {
         font-size: 10px;
-    }
-
-    .icon-container {
-        height: 25%;
-        padding: 0;
     }
 
     #icon {
