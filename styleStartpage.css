@@ -56,6 +56,11 @@ header p {
     width: 100%;
 }
 
+.flex-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .left-container {
     height: 100%;
     width: 25%;
@@ -159,8 +164,6 @@ header p {
 
     .flex-item {
         height: 100%;
-        display: flex;
-        flex-wrap: wrap;
     }
 
     .icon-container {
@@ -218,6 +221,9 @@ header p {
 
     .flex-item {
         height: 100%;
+    }
+
+    .flex-items {
         display: flex;
         flex-wrap: wrap;
     }
